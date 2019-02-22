@@ -1,0 +1,39 @@
+#title {
+    width: 50%;
+    margin-left: 25%;
+    margin-right: 25%;
+    margin-top: 15px;
+    text-align: center;
+    font-size: 60px;
+}
+
+#question-frame , #correct-answer-frame, #incorrect-answer-frame, 
+#game-over-frame, #game-win-frame, #time-up-frame {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    margin-top: 10px;
+    text-align: center;
+    font-size: 28px;
+    display: none;
+}
+
+#answer-correct, #answer-doh, #time-up-1, #time-up-2, #celeb-gif {
+    width: 60%;
+    margin-left: 20%;
+    margin-right: 20%;
+    text-align: center;
+    font-size: 28px;
+}
+
+#op1:hover, #op2:hover, #op3:hover, #op4:hover {
+    background-color: lightgreen;
+}
+
+#restart {
+    margin: auto;
+    width: 50%;
+    border: 3px solid green;
+    padding: 10px;
+    display: none;
+}
