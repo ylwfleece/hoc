@@ -24,7 +24,8 @@ export class QuestionComponent implements OnInit {
 
   questions: Array<string> = ["Last year ___ women took to the streets of Seoul to protest the wave of revenge porn",
     "The founder of the Me Too Movement is _____",
-    "One in __ American women will be raped at some point in their lives",
+    "The founders of Black Lives Matter are women of color",
+    "One in __ American women and one in __ American men will be raped at some point in their lives",
     "__% of rapes occur while the victim is at work",
     "__% of women who are raped attempt suicide",
     "More than __% of sexual assault victims on college campuses do not report the assault",
