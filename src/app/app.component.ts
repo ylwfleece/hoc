@@ -7,4 +7,19 @@ import { Component } from '@angular/core';
 })
 export class AppComponent {
   title = 'hoc1';
+
+  ngOnInit() {
+  }
+
+  showFirst: boolean = true;
+  showSecond: boolean = false;
+
+  toggleFirst() {
+    this.showFirst = false;
+    this.showSecond = true;
+  }
+
+  toggleSecond() {
+    this.showSecond = false;
+  }
 }
