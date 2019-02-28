@@ -1,8 +1,35 @@
-<div class="container">
+<!-- <div class="container">
   <div id="question-box">
     <h2 class="row" id="question">{{questions[counter]}}</h2>
     <button id="op1" type="button" class="btn btn-link" (click) = "handleAnswer()">True</button>
     <button id="op2" type="button" class="btn btn-link" (click) = "handleAnswer()">False</button>
   </div>
+</div> -->
+<div class="container">
+  <div id="quizmain">
+    <div id="quizcontainer">
+
+      <h3>Question {{questionNum}} of 40:</h3>
+      <p id="qtext">What does HTML stand for?</p>
+      <form role="form" id="quizform" name="quizform" action='quiztest.asp?qtest=HTML' method='post'>
+        <input type="hidden" name="answers" value="0000000000000000000000000000000000000000">
+        <input type="hidden" name="nextnumber">
+        <input type="hidden" name="prevnumber" value="1">
+        <div style="position:relative;width:100%;">
+          <div id="altcontainer">
+            <label class='radiocontainer' id='label1'> Home Tool Markup Language<input type='radio' name='quiz'
+                id='1' value=' 1' /><span class='checkmark'></span></label><label class='radiocontainer' id='label2'>
+              Hyperlinks and Text Markup Language<input type='radio' name='quiz' id='2' value='2' /><span
+                class='checkmark'></span></label><label class='radiocontainer' id='label3'> Hyper Text Markup
+              Language<input type='radio' name='quiz' id='3' value='3' /><span class='checkmark'></span></label>
+          </div>
+        </div>
+        <div id="answerbuttoncontainer">
+          <button class="answerbutton w3-btn" type="submit">Next &#10095;</button>
+          <input type="text" readonly id="timespent" value="0:00">
+        </div>
+      </form>
+
+    </div>
+  </div>
 </div>
-  
