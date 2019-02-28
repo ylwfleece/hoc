@@ -13,6 +13,7 @@ export class AppComponent {
 
   showFirst: boolean = true;
   showSecond: boolean = false;
+  showThird: boolean = false;
 
   toggleFirst() {
     this.showFirst = false;
@@ -21,5 +22,10 @@ export class AppComponent {
 
   toggleSecond() {
     this.showSecond = false;
+    this.showThird = true;
+  }
+
+  toggleThird() {
+    this.showThird = false;
   }
 }
