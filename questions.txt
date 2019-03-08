@@ -460,6 +460,95 @@ False
 40
 56
 94
+101. Sexual violence is defined as any sexual activity (rape, statutory rape, acquaintance rape, incest, sexual harassment, among others) involving someone who does not or cannot consent.
+True
+False
+102. Affirmative consent is when someone agrees, gives permission, or says "yes" to sexual activity with other persons. Consent is always freely given and all people in a sexual situation must feel that they are able to say "yes" or "no" or stop the sexual activity at any point.
+True
+False
+103. Female-identified teenagers (14-17) are __x as likely to experience sexual violence as male-identified teenagers.
+2
+3
+5
+10
+104. Four things that should be heard by a victim of sexual violence: I’m sorry this was done to you, it was not your fault, I am a safe person to talk to and ___.
+You shouldn’t have had a drink
+Next time be more careful
+I believe you
+Don’t wear those heels next time
+105. The Night of Terror refers to an event in 1917 when women were protesting for the right to vote when they were beaten and imprisoned by police.
+True
+False
+106. _____ is a sociological concept for a setting in which rape is pervasive and normalized due to societal attitudes about gender and sexuality.
+Rape culture
+Masculine territory
+Sexualization
+Horticulture
+107. A ___ is a person advocating the extension of suffrage, especially to women.
+Wingman
+Scopist
+Midwife
+Suffragist
+108. _____ Countess of Lovelace was an English mathematician and writer, chiefly known for her work on Charles Babbage's proposed mechanical general-purpose computer, the Analytical Engine.
+Emelia Airhart
+Nora McMadow
+Ada Lovelace
+Rebeca Scot
+109. The average length of human gestation is __ days.
+12
+34
+89
+240
+110. A __ (or c-section) is a surgical procedure used to deliver a baby through incisions in the abdomen and uterus.
+Cut through the waist
+Cesarian delivery
+Tripendectomy
+Lobotomy
+111. _____ was a Russian mathematician. She was known for her work on partial differential equations and fluid dynamics. She provided the first rigorous proofs of the convergence of a finite difference method for the Navier–Stokes equations.
+Ada Lovelace
+Cahli Babbage
+Ally Turing
+Olga Aleksandrovna Ladyzhenskaya 
+112. Though at-risk girls and women are thought to live in every state but Hawaii, just __ states have enacted laws against female genital mutilation. Prosecution depends on the age of the victim, who performed the procedure, whether the victim was taken out of the country for FGM, and whether the accused uses cultural reasons as a defense.
+3
+10
+25
+30
+113. Cern recently cut ties with a professor and researcher who publicly claimed and tried to prove that men are better physicists than women.
+True
+False
+114. As of 2013 the average high school GPA of American females was __ and __ for American males.
+3.01, 3.51
+3.24, 3.07
+3.21, 3.25
+3.40, 3.54
+115. Scouts BSA (formerly Boy Scouts) is the flagship program of the BSA for boys and girls ages 11 to 18.
+True
+False
+116. In 2016, the Centers for Disease Control and Prevention (CDC) released a report compiled with data from 2010-2013. The CDC report estimated __ girls and women in the United States were either victims of FGM or at risk of FGM, with ⅓ under age 18.
+513,000
+30,400
+12,000
+390
+117. Female genital mutilation (FGM) includes procedures that intentionally alter or cause injury to the female genital organs for non-medical reasons. 
+True
+False
+118. FGM has no health benefits for girls and women. 
+True
+False
+119. Procedures can cause severe bleeding and problems urinating, and later cysts, infections, as well as complications in childbirth and increased risk of newborn deaths. 
+True
+False
+120. More than 200 million girls and women alive today have been cut in 30 countries in Africa, the Middle East and Asia where FGM is concentrated. 
+True
+False
+121. FGM is mostly carried out on young girls between infancy and age 15. FGM is a violation of the human rights of girls and women.
+True
+False
+
+
+
+
 
 
 
