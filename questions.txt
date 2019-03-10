@@ -633,6 +633,55 @@ False
 140. Generally speaking, girls of color are actually very actively represented in local activist movements in continental America. This is an idea explored in the book, Rebel Girls.
 True
 False
+141. Peace agreements last __% longer when women are involved in the negotiating process. But between 1990 and 2017, women constituted only 2 per cent of mediators, 8 per cent of negotiators, and 5 per cent of witnesses and signatories in all major peace process.
+5
+10
+20
+35
+142. A trend analysis on 1,500 peace and political agreements adopted between 2000 and 2016 (140 processes) shows that only __ agreements discuss the role of women’s engagement in implementation.
+700
+600
+400
+25
+143. Gender-sensitive language in peace agreements is critical to setting a foundation for gender-inclusion during the peacebuilding phase. Yet, data show a downward trend since 2015; only __ out of 11 peace agreements signed in 2017 containing gender-responsive provisions.
+3
+4 
+5
+6
+144. The Kroc School at University of San Diego is deeply invested in women who are building peace locally and globally. Its Women PeaceMakers program, which is in its seventeenth year,  works with leading women peacemakers from around the world to collaborate on improving peace efforts. In 2016, the school became home to the Women Waging Peace network, and the two programs bring together over 1,000 women peacebuilders from 55 different countries to share insights and opportunities.
+True
+False
+145. The Declaration of Independence reads: We hold these truths to be self-evident, that all ___ are created equal.
+Men and women
+Humans
+Americans
+Men
+146. The Christian Bible and Muslim Quran typically describe their concepts of god with __ pronouns.
+Gender neutral
+They/them
+Masculine
+Feminine
+147. Generally, historians believe that all books of the Bible were written by __.
+Goats
+Hens
+Men
+Men and women
+148. It is generally believed that the Quran was written by a __.
+Man
+Woman
+149. Regarding representatives of Member States to the UN, in April 2018 women made up only __ out of 193 permanent representatives at the ambassador level to the UN in New York; out of 15 Security Council seats, three (Poland, the UK and the USA) were filled by women Ambassadors.
+30
+40
+50
+60
+150. In 2017, UN Women maintained a country presence in a total of __ countries, including 28 conflict and post-conflict countries. and continued to provide gender expertise and implement a range of peace, security and humanitarian initiatives in 65 countries.
+12
+29
+56
+82
+
+
+
 
 
 
