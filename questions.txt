@@ -679,6 +679,91 @@ Woman
 29
 56
 82
+151. __ Percent of US College Campuses Reported Zero Incidents of Rape in 2016.
+5%
+12%
+14%
+89%
+152. ____ is a cultural icon of World War II, representing the women who worked in factories and shipyards during World War II, many of whom produced munitions and war supplies.[1][2] These women sometimes took entirely new jobs replacing the male workers who joined the military. ___ is used as a symbol of American feminism and women's economic advantage.[3] Similar images of women war workers appeared in other countries such as Britain and Australia.
+Rosie the Riveter
+Peggy the Pencil Pusher
+Laura the Lowkey Lover
+Sarah the Shiner
+153. __,  first female anchor to host her own weekday network evening news broadcast, and an anchor and managing editor of CBS Evening News.
+Sarah Meyers
+Tina Fey
+Leslie Pohler
+Katie Couric
+154. In 2015 the CEO of __ Found Out His Female Employees Were Paid Less Than Men. He ordered a $6 million plan to close the gap over the next two years. Salesforce has spent another $2.7 million on closing pay gaps to adjust the salaries of 6 percent of its global 30,000 person workforce
+Target
+Amazon
+Salesforce
+Apple
+155. Sexual harassment  is a form of sex discrimination that violates Title VII of the Civil Rights Act of 1964. Title VII applies to employers with 15 or more employees, including state and local governments. It also applies to employment agencies and to labor organizations, as well as to the federal government.
+True
+False
+156. Unwelcome sexual advances, requests for sexual favors, and other verbal or physical conduct of a sexual nature constitute sexual harassment when this conduct explicitly or implicitly affects an individual's employment, unreasonably interferes with an individual's work performance, or creates an intimidating, hostile, or offensive work environment.
+True
+False
+157.  Research suggests that only a small number of those who experience harassment (one in__) ever formally report incidents of harassment—let alone make a charge to the EEOC—because of lack of accessible complaints processes, simple embarrassment, or fear of retaliation.
+4
+5
+10
+30
+158.  According to an analysis of EEOC data, __ percent of sexual harassment charges in FY 2017 included a charge of retaliation.
+25
+45
+65
+71
+159. The EEOC, which publishes all financial settlements it reaches on behalf of employees, in FY 2017 gained $46.3 million in monetary benefits for employees in relation to sexual harassment charges (U.S. EEOC 2018). These costs likely substantially underestimate the actual payouts made by employers in response to sexual harassment charges because the EEOC litigates only a small number of all charges it receives.
+True
+False
+160. Research shows that sexual harassment in the workplace can increase employee turnover (Chan et al. 2008; Fitzgerald et al. 1997; Sims, Drasgow, and Fitzgerald 2005; and Purl, Hall, and Griffeth 2016). In their study of the relationship between sexual harassment and women’s career attainment, McLaughlin, Uggen, and Blackstone (2017) found that targets of harassment were __ times as likely as non-targets to change jobs.
+2
+3
+5
+6.5
+161. Today’s concept of marrying for love is a relatively new phenomenon. Historically, unions were transactional and women had no say in the matter.
+True
+False
+162. In colonial America, for example, there was no dating; fathers arranged their daughters’ marriages with the goal of combining wealth and property. What’s more, once married, women were prohibited from owning property. They were merely their husband’s possession and lost all individual legal rights.
+True
+False
+163. Until the early 19th century, a woman’s legal rights in America were largely dependent upon her marital status. Single women could live where they wanted, buy and sell property, and could even support themselves. But once they were married, that all changed. Coverture, a legal concept, ensured that married women were exclusively dependent on their husbands, legally and financially.
+True
+False
+164. Marriage was largely a privilege reserved for white folks in the U.S. In 19th-century America, slaves were forbidden from marrying at all, while “free” African-Americans were prohibited from marrying across racial lines. In fact, interracial marriages were considered illegal well into the 20th century.
+True
+False
+165. Marital rape in United States law, also known as spousal rape, is non-consensual sex in which the perpetrator is the victim's spouse. It is a form of partner rape, of domestic violence, and of sexual abuse. Today, marital rape is illegal in __ US states.
+23
+32
+40
+50
+166. The criminalization of marital rape in the United States started in the mid-1970s and by 1993 marital rape became a crime in __ states.
+12
+20
+29
+50
+167. The views which contributed to rape laws not being applicable in marriage can be traced, at least partially, to 17th century English common law, which was imported to the British American colonies. The 17th-century English jurist, Sir Matthew Hale (1609-1676), stated the position of the common law in The History of the Pleas of the Crown (posthumously, 1736) that a "husband cannot be guilty of a rape committed by himself upon his lawful wife, for by their mutual matrimonial consent and contract the wife hath given up herself in this kind to her husband which she cannot retract".
+True
+False
+168. The first US National Women’s Rights Convention was held in ___.
+1779
+1848
+1890
+1959
+169. Recy Taylor was a 24-year-old mother when she was abducted at gunpoint and gang raped by a group of white men in Alabama in 1944.Even though the men admitted the rape to authorities, two grand juries declined to indict the men - no charges were ever brought against Taylor’s six assailants.
+True
+False
+170. Bride kidnapping, also known as bridenapping,[1] marriage by abduction or marriage by capture, is a practice in which a man abducts[2] the woman he wishes to marry. Bride kidnapping has been practiced around the world and throughout history. It continues to occur in countries in Central Asia, the Caucasus region, and parts of Africa, and among peoples as diverse as the Hmong in Southeast Asia, the Tzeltal in Mexico, and the Romani in Europe.
+True
+False
+
+
+
+
+
 
 
 
