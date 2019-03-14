@@ -759,7 +759,40 @@ False
 170. Bride kidnapping, also known as bridenapping,[1] marriage by abduction or marriage by capture, is a practice in which a man abducts[2] the woman he wishes to marry. Bride kidnapping has been practiced around the world and throughout history. It continues to occur in countries in Central Asia, the Caucasus region, and parts of Africa, and among peoples as diverse as the Hmong in Southeast Asia, the Tzeltal in Mexico, and the Romani in Europe.
 True
 False
-
+171. ___ is an American feminist, journalist, and social political activist who became nationally recognized as a leader and a spokeswoman for the American feminist movement in the late 1960s and early 1970s. Steinem was a columnist for New York magazine, and a co-founder of Ms. magazine.
+a. Becky Jedsten
+b. Gloria Steinem
+c. Mary Addison
+d. Julie Sorenson
+172. Today, single mothers head over half of all low income households with children, and female-headed households are twice as likely to be poor. One third of single mothers struggle to feed themselves and their children.
+a. True
+b. False
+173. While __ percent of all households are food insecure, over __ percent of female headed households are food insecure.
+a. 8, 13
+b. 10, 24
+c. 14, 30
+d. 23, 49
+174. First-wave feminism was a period of feminist activity and thought that occurred during the 19th and early 20th century throughout the Western world. It focused on legal issues, primarily on gaining the right to vote.
+a. True
+b. False 
+175. Second-wave feminism is a period of feminist activity and thought that began in the United States in the early 1960s and lasted roughly two decades. It quickly spread across the Western world, with an aim to increase equality for women by gaining more than just enfranchisement.
+a. True
+b. False
+176. The third wave of feminism emerged in the mid-1990s. It was led by so-called Generation Xers who, born in the 1960s and '70s in the developed world, came of age in a media-saturated and culturally and economically diverse milieu.
+a. True
+b. False
+177. Fourth-wave feminism is a wave of feminism that began around 2012 and is characterized by a desire for the empowerment of women and its reliance on the internet – specifically, social media.
+a. True
+b. False
+178. On March 10, 2019 the Philippines President Rodrigo Duterte spoke at an event for the country’s National Women’s Month, that was meant to honor outstanding women in law enforcement and national security, but in his speech, Duterte referred to the women as “crazy” and “bitches” that deprive him of the “freedom” to express himself. 
+a. True
+b. False
+179. Dr. Leana Wen is the first Asian American as well as the first physician in 50 years to become the president of Planned Parenthood in 2018 after Cecile Richards announced her resignation. As an emergency room doctor and former health commissioner, Wen leads one of America’s most trusted reproductive health care providers.
+a. True
+b. False
+180. Spotlight is a 2015 American biographical drama film directed by Tom McCarthy and written by McCarthy and Josh Singer.[4][5] The film follows The Boston Globe's "Spotlight" team, the oldest continuously operating newspaper investigative journalist unit in the United States,[6] and its investigation into cases of widespread and systemic child sex abuse in the Boston area by numerous Roman Catholic priests.
+a. True
+b. False
 
 
 
