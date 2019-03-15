@@ -793,6 +793,54 @@ b. False
 180. Spotlight is a 2015 American biographical drama film directed by Tom McCarthy and written by McCarthy and Josh Singer.[4][5] The film follows The Boston Globe's "Spotlight" team, the oldest continuously operating newspaper investigative journalist unit in the United States,[6] and its investigation into cases of widespread and systemic child sex abuse in the Boston area by numerous Roman Catholic priests.
 a. True
 b. False
+181. The United States has 16,562 female high school wrestlers, however only __ states have girls’ wrestling programs with state championships.
+12
+21
+30
+32
+182. Since 1972, female participation in high school sports has increased by more than __%.
+30
+100
+200
+900
+183. Title __ gives women athletes the right to equal opportunity in sports in educational institutions that receive federal funds, from elementary schools to colleges and universities.
+IV
+V
+VII
+IX
+184. The penalty for non-compliance with Title IX is withdrawal of federal funds. Despite the fact that most estimates are that 80 to 90 percent of all educational institutions are not in compliance with Title IX as it applies to athletics, such withdrawal of federal moneys has never been initiated.
+True
+False
+185. In the wake of Title IX, there has been a dramatic decline in the number of women in coaching and leadership positions in women’s athletics. For example, prior to 1972, 90% of all head coaches in women’s athletics at the college level were women; today, the number is about __%.
+51
+43
+21
+8
+186. When asked about reasons for the decline in the number of female head coaches in women’s sports, female athletic directors tended to view the coaching gap as the result of structural and institutional factors. These included the “Old Boy’s Club” – men tending to hire from a pool of male coaching candidates they were familiar with – and a variety of conscious and unconscious gender biases.
+True
+False
+187. Even though 40% of all sports participants (and 43% of all scholarship athletes) are women, women’s sports still receive only __% to __% of all sports coverage. Sport media scholars like myself are not suggesting that coverage needs to be equal, but this glaring disparity reflects the fact that the media doesn’t just under-report women’s sports, it actively suppresses information about it.
+2, 4
+10, 20
+12, 30
+18, 21
+188.  Within the small amount of coverage that women’s athletics do receive, we find that female athletes are more likely to be portrayed off the court, out of uniform and in highly sexualized poses where the emphasis is on their femininity and their physical attractiveness rather than their athletic competence.
+True
+False
+189. The men's 2014 World Cup generated $4.8 billion, half of which came from global broadcasting rights; ESPN sold $__ million in ads for that tournament. Though FIFA called the women's tournament in 2011 a "financial success," Fox, for example, only sold $__ million in advertisements for this year's World Cup, a big loss, considering the final game ended up being the most watched soccer match in U.S. history.
+529, 440
+529, 380
+529, 150
+529, 15
+190.  In 1972, the year the civil-rights law was enacted, only __ women were participating in National Collegiate Athletic Association sports, compared to 170,000 men.
+30
+300
+3,000
+30,000
+
+
+
+
 
 
 
