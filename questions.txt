@@ -837,6 +837,46 @@ False
 300
 3,000
 30,000
+191. The idea that there are only two genders–and that each individual must be either one or the other–is called the “____.”
+Patriarchal division
+Malarchy theory
+Double Spectrum
+Gender Binary
+192. Human gametes usually have 23 chromosomes, __ of which are common to both sexes. The final chromosomes in the two human gametes are called sex chromosomes because of their role in sex determination.
+12
+13
+19
+22
+193. Humans, as well as some other organisms, can have a chromosomal arrangement that is contrary to their phenotypic sex; for example, XX males or XY females (see androgen insensitivity syndrome). Additionally, an abnormal number of sexchromosomes (aneuploidy) may be present, such as Turner’s syndrome, in which a single X chromosome is present, and Klinefelter’s syndrome, in which two X chromosomes and a Y chromosome are present, XYY syndrome and XXYY syndrome. Other less common chromosomal arrangements include: triple X syndrome, 48, XXXX, and 49, XXXXX.
+True
+False
+194. Many transgender men and women seek hormone therapy as part of the transition process.
+True
+False
+195. Exogenous testosterone is used in transgender men to induce virilization and suppress feminizing characteristics. 
+True
+False
+196. In transgender women, exogenous estrogen is used to help feminize patients, and anti-androgens are used as adjuncts to help suppress masculinizing features.
+True
+False
+197. Transgender individuals experience discord between their self-identified gender and biological sex. 
+True
+False
+198. Transgender men are individuals who were assigned female at birth but identify as men, and transgender women are individuals who were assigned male at birth but identify as women.
+True
+False
+199. ___ is an American writer, television host, director, producer and transgender rights activist. Her debut book, the memoir Redefining Realness, became a New York Times bestseller. She is a contributing editor for Marie Claire and a former staff editor of People magazine's website.
+Janet Mock
+Jane Goodall 
+Sherry Hawkins
+Wendy Batchkin
+200. _____ is an American television personality and retired Olympic gold medal–winning decathlete. She was a college football player for the Graceland Yellowjackets before incurring a knee injury that required surgery. 
+Karen Baxley
+Heidi Gloop
+Melanie Loughton
+Caitlyn Jenner
+
+
 
 
 
