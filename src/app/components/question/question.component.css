@@ -20,7 +20,7 @@
     padding:20px 0;
   }
   .answerbutton {
-    background-color:#4CAF50;
+    background-color: lightgreen;
     padding:20px 50px;
   }
   #timespent {
@@ -34,7 +34,7 @@
   }
   /* The radiocontainer */
   .radiocontainer {
-    background-color:#f1f1f1;
+    background-color: white;
     display: block;
     position: relative;
     padding:10px 10px 10px 50px;
@@ -73,12 +73,12 @@
     /*nothing*/
   }
   .radiocontainer:hover {
-    background-color: #ddd;
+    background-color: lightgreen;
   }
   
   /* When the radio button is checked, add a blue background */
   .radiocontainer input:checked ~ .checkmark {
-    background-color: #2196F3;
+    background-color:purple;
   }
   
   /* Create the indicator (the dot/circle - hidden when not checked) */
